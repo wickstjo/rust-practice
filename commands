@@ -1,0 +1,8 @@
+CREATE NEW PROJECT
+    cargo new my_first_project
+
+WHITELIST RULES
+    #![allow(unused)]
+
+CRATES.IO FOR CUSTOM IMPORTS
+EXCLAMATION MARK MEANS MACROS
